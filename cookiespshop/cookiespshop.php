@@ -1,4 +1,14 @@
 <?php
+/****************************************************************
+ *Modulo CookiesPshop: Este modulo permite mostrar              *
+ * un mensaje con las cookies de la web.                        *
+ * de esta manera, se cumple con la Ley 34/2002.                *
+ * Ley Europea de Cookies.                                      *
+ * Autor: IndalWare<Suarez.garcia.victor@gmail.com              *
+ * Version 0.1.                                                 *
+ * Bajo Licencia Apache:                                        *
+ *  http://github.com/zerasul/cookiepshop/blob/master/LICENSE   *
+ ****************************************************************/
 if (!defined('_PS_VERSION_'))
   exit;
   
